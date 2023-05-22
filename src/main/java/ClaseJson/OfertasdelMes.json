@@ -1,0 +1,12 @@
+[ {
+  "producto" : {
+    "nombre" : "Azucar",
+    "peso" : [ "1", "kg" ],
+    "precio" : 699.0
+  },
+  "descuento" : {
+    "tipo" : "%",
+    "cantidad" : 0.3,
+    "tope" : 100.0
+  },
+  "fechaDesde"
