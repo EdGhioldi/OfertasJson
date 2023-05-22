@@ -1,15 +1,14 @@
 package ClaseJson;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class Producto {
     private String nombre;
     private String[] peso;
     private double precio;
-
-    public Producto(){};
-    public Producto(String nombre, String[]peso, double precio){
-        this.nombre = nombre;
-        this.peso = peso;
-        this.precio = precio;
-    }
-
 }

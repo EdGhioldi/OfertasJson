@@ -9,4 +9,45 @@
     "cantidad" : 0.3,
     "tope" : 100.0
   },
-  "fechaDesde"
+  "fechaDesde" : "2023-02-23",
+  "fechaHasta" : "2023-03-23"
+}, {
+  "producto" : {
+    "nombre" : "Yerba",
+    "peso" : [ "500", "grs" ],
+    "precio" : 649.0
+  },
+  "descuento" : {
+    "tipo" : "%",
+    "cantidad" : 0.05,
+    "tope" : 75.0
+  },
+  "fechaDesde" : "2023-02-23",
+  "fechaHasta" : "2023-03-23"
+}, {
+  "producto" : {
+    "nombre" : "Cafe",
+    "peso" : [ "700", "grs" ],
+    "precio" : 1199.0
+  },
+  "descuento" : {
+    "tipo" : "%",
+    "cantidad" : 0.15,
+    "tope" : 120.0
+  },
+  "fechaDesde" : "2023-02-23",
+  "fechaHasta" : "2023-03-23"
+}, {
+  "producto" : {
+    "nombre" : "Leche",
+    "peso" : [ "1", "lt" ],
+    "precio" : 250.0
+  },
+  "descuento" : {
+    "tipo" : "%",
+    "cantidad" : 0.1,
+    "tope" : 350.0
+  },
+  "fechaDesde" : "2023-02-23",
+  "fechaHasta" : "2023-03-23"
+} ]
